@@ -5,7 +5,7 @@
 ### Submitted by singh.jaskaran2024@gmail.com
 
 1. clone the project. -> npm i (in both folders)
-2. Setup mysql config in src/config.json
+2. Setup postgres config in src/config/config.json
 3. Run both ApiGateway and AuthService separately
 4. View the excalidraw document to view detailed implementation and output: https://excalidraw.com/#json=iShUkQqzoQUlBAQLSfHkP,S2_a74bztZo5iFsEETuhUQ
 5. Implemented reset password route from scratch.
